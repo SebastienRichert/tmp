@@ -1,0 +1,5 @@
+<variable-file delimiters="," filename="variables/myvariable.csv" name="FileVariable_1" offset="1" order="3" policy="5" range="1" uid="e239eef9-f9c2-43f0-97d3-ac110f6b6d61" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="a" number="0"/>
+<column name="b" number="1"/>
+<column name="c" number="2"/>
+</variable-file>
